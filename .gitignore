@@ -1,8 +1,5 @@
 .venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.DS_Store
 .vscode/
 ppo_lunar_tensorboard/
